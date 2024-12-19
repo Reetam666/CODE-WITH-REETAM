@@ -5,11 +5,27 @@ body{
     background-position: center;
 
     text-align: center;
-    color:white;
 }
+
+.hr{
+    color:whitesmoke;
+}
+
 table {
     width: 100%;
     border-color: aliceblue;
+}
+
+th {
+    color: yellow;
+}
+
+td {
+    color: white;
+}
+
+.sl {
+    color:white;
 }
 
 table ,th, td {
